@@ -1,5 +1,9 @@
 _repo: Life-and-Travels-of-Mungo-Park_8564
+_version: 0.1.0
 alternative_title: Travels in Africa
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Park, Mungo
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1755
     wikipedia: http://en.wikipedia.org/wiki/Mungo_Park
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8564#Life-and-Travels-of-Mungo-Park
 gutenberg_bookshelf: Africa
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
